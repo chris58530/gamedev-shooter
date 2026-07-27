@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "gamedev-shooter",
+  "displayName": "GameDev Shooter（槍戰類型層）",
+  "version": "0.1.0",
+  "description": "射擊遊戲的武器手感、彈道、敵人 AI 與波次難度規範",
+  "author": { "name": "chris58530", "url": "https://github.com/chris58530" },
+  "homepage": "https://github.com/chris58530/gamedev-shooter",
+  "repository": "https://github.com/chris58530/gamedev-shooter",
+  "license": "MIT",
+  "keywords": ["gamedev", "game-design", "skill", "prompt"]
+}
