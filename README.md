@@ -49,11 +49,13 @@ Clone 本 repo，或把 [`SKILL.md`](./SKILL.md) 複製進你的專案，
 | 層級 | Skill | 用途 |
 |------|-------|------|
 | 基礎 | [gamedev-feel](https://github.com/chris58530/gamedev-feel) | 手感、音效、回饋、兩階段流程與自我驗收 |
-| 表現 | [gamedev-3d](https://github.com/chris58530/gamedev-3d) | 3D 建模、渲染、材質、燈光 |
-| 表現 | gamedev-2d | 精靈圖、序列動畫（規劃中） |
+| 表現 | [gamedev-2d](https://github.com/chris58530/gamedev-2d) | 精靈、逐格動畫、圖層視差、2D 特效 |
+| 表現 | [gamedev-3d](https://github.com/chris58530/gamedev-3d) | 建模、渲染、材質、燈光 |
 | 適配 | [gamedev-mobile](https://github.com/chris58530/gamedev-mobile) | 觸控操作、觸覺回饋、安全區、手機效能 |
 | 類型 | [gamedev-shooter](https://github.com/chris58530/gamedev-shooter) | 槍戰射擊 |
-| 類型 | gamedev-farming / puzzle / horror | 種田 / 解謎 / 恐怖（規劃中） |
+| 類型 | [gamedev-farming](https://github.com/chris58530/gamedev-farming) | 種田經營 |
+| 類型 | [gamedev-puzzle](https://github.com/chris58530/gamedev-puzzle) | 解謎益智 |
+| 類型 | [gamedev-horror](https://github.com/chris58530/gamedev-horror) | 恐怖驚悚 |
 
 索引：**[gamedev-skills](https://github.com/chris58530/gamedev-skills)**
 
