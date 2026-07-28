@@ -51,6 +51,7 @@ Clone 本 repo，或把 [`SKILL.md`](./SKILL.md) 複製進你的專案，
 | 基礎 | [gamedev-feel](https://github.com/chris58530/gamedev-feel) | 手感、音效、回饋、兩階段流程與自我驗收 |
 | 表現 | [gamedev-3d](https://github.com/chris58530/gamedev-3d) | 3D 建模、渲染、材質、燈光 |
 | 表現 | gamedev-2d | 精靈圖、序列動畫（規劃中） |
+| 適配 | [gamedev-mobile](https://github.com/chris58530/gamedev-mobile) | 觸控操作、觸覺回饋、安全區、手機效能 |
 | 類型 | [gamedev-shooter](https://github.com/chris58530/gamedev-shooter) | 槍戰射擊 |
 | 類型 | gamedev-farming / puzzle / horror | 種田 / 解謎 / 恐怖（規劃中） |
 
